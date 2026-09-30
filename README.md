@@ -1,9 +1,5 @@
 # Automações em VBA para Excel
 
-Ferramentas que desenvolvi a partir de problemas encontrados no meu trabalho com tradução e dublagem: consolidar informações espalhadas em planilhas e aplicar substituições de termos de forma consistente.
-
-Sou Leonardo Pazello, estudante de Engenharia de Computação. Esses projetos surgiram da necessidade de automatizar tarefas da minha rotina profissional, usando IA como apoio ao desenvolvimento das soluções.
-
 ## Ferramentas
 
 | Ferramenta | Problema | Solução |
